@@ -1,0 +1,40 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore logs
+logs/
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore yarn debug log
+yarn-debug.log*
+
+# Ignore yarn error log
+yarn-error.log*
+
+# Ignore .env file (jika digunakan)
+.env
+
+# Ignore any build output
+build/
+
+# Ignore any coverage reports
+coverage/
+
+# Ignore any generated files or folders
+dist/
+out/
+tmp/
+
+# Ignore any personal IDE or editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+app.yaml
